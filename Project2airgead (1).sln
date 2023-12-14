@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project2airgead", "Project2airgead\Project2airgead.vcxproj", "{E07CCA08-A9BF-4DFE-9C52-936AC3AECAFB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{74ACBE05-BFB2-4B25-93C6-6D608DC5714E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E07CCA08-A9BF-4DFE-9C52-936AC3AECAFB}.Debug|x64.ActiveCfg = Debug|x64
+		{E07CCA08-A9BF-4DFE-9C52-936AC3AECAFB}.Debug|x64.Build.0 = Debug|x64
+		{E07CCA08-A9BF-4DFE-9C52-936AC3AECAFB}.Debug|x86.ActiveCfg = Debug|Win32
+		{E07CCA08-A9BF-4DFE-9C52-936AC3AECAFB}.Debug|x86.Build.0 = Debug|Win32
+		{E07CCA08-A9BF-4DFE-9C52-936AC3AECAFB}.Release|x64.ActiveCfg = Release|x64
+		{E07CCA08-A9BF-4DFE-9C52-936AC3AECAFB}.Release|x64.Build.0 = Release|x64
+		{E07CCA08-A9BF-4DFE-9C52-936AC3AECAFB}.Release|x86.ActiveCfg = Release|Win32
+		{E07CCA08-A9BF-4DFE-9C52-936AC3AECAFB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40551CE5-71A4-475A-95EF-2271F195A7B3}
+	EndGlobalSection
+EndGlobal
